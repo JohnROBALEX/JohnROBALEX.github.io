@@ -1,25 +1,11 @@
-# LightSpeed
+# John Robert Alexander Portfolio
 
 ## About
 
-LightSpeed A fast, simple, and privacy-respecting Jekyll theme. 
-This theme acts as a landing page / personal website with post support. This theme was primarily created to act as a 
-template for my personal website.
+Hi, I'm John currently at Abertay University studying Computer Games Applications of Development.
 
-## Requirements
-
-Add the following gems to your Gemfile:
-
-```
-gem "jekyll"
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "jekyll-paginate-v2"
-```
-
-Once added, run `bundle install` to install them if not present already. SEO is optional and can be removed without 
-impacting other functionality.
-
+## Pen and Sword
+<https://youtu.be/8DUr9wWK4Nk?si=SC9i2T-j_Xqz-yIO>
 ## Features
 
 - Post Support (Blog)
@@ -64,3 +50,4 @@ Support for more analytics platforms is a welcome suggestion, as long as they re
 CSS styles adapted and modified from Jeremy Thomas' 'Web Design in 4 Minutes'. 
 
 Theme spacing, colours, and content layout feedback provided by my wife ♥
+
