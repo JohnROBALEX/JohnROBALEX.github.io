@@ -5,7 +5,7 @@
 Hi, I'm John currently at Abertay University studying Computer Games Applications of Development.
 
 ## Pen and Sword
-{% include https://youtu.be/8DUr9wWK4Nk?si=SC9i2T-j_Xqz-yIO%}
+{% include https://youtu.be/8DUr9wWK4Nk?si=SC9i2T-j_Xqz-yIO %}
 ## Features
 
 - Post Support (Blog)
@@ -50,5 +50,6 @@ Support for more analytics platforms is a welcome suggestion, as long as they re
 CSS styles adapted and modified from Jeremy Thomas' 'Web Design in 4 Minutes'. 
 
 Theme spacing, colours, and content layout feedback provided by my wife ♥
+
 
 
