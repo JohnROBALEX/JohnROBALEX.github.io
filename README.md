@@ -14,41 +14,10 @@ I was one of three programmers for Pen and Sword, which is a top-down 2D tower d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MV8_rU4ChB4?si=5ICrZSJE79Ybpylo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## JavaScript Requirements
+I made a game with an adaptive decision tree AI that dynamically adapts its strategies by calculating contextual relevance and of actions and continuously updates success rates using a moving average. It also uses weighted random selection to make it more unpredictable making it more engaging. 
 
-### Syntax Highlighting
 
-Syntax highlighting from `prism.js` can be customized and switched to a CDN provider if preferred by following 
-[these](https://prismjs.com/index.html#basic-usage-cdn) instructions
 
-### Analytics
-
-Support for [Plausible Analytics](https://github.com/plausible) is provided by enabling it within `_config.yml`.
-
-Example configuration: 
-
-``` 
-analytics:
-  plausible:
-    enabled: true
-    site_fqdn: 'lightspeed.tajacks.com'
-    script_source: 'https://plausible.io/js/script.js'
-```
-
-`enabled` - Boolean - To enable or disable page-view analytics.
-
-`site_fqdn` - String - The FQDN of your website to report back to Plausible.
-
-`script_source` - String - The source of the analytics script. Provided as a variable to accommodate self-hosted instances 
-of plausible.
-
-Support for more analytics platforms is a welcome suggestion, as long as they respect user privacy.
-
-## Acknowledgements
-
-CSS styles adapted and modified from Jeremy Thomas' 'Web Design in 4 Minutes'. 
-
-Theme spacing, colours, and content layout feedback provided by my wife ♥
 
 
 
