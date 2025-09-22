@@ -5,18 +5,14 @@
 Hi, I'm John, and I'm currently at Abertay University studying Computer Games Applications of Development.
 
 ## Pen and Sword
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8DUr9wWK4Nk?si=53w04GdNxe7a4kxb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I was one of three programmers for Pen and Sword, which is a top-down 2D tower defence style game. This was developed using the Unity game engine, and I was responsible for creating the AI pathfinding for the enemies, which involved the enemies navigation, logic and behaviour patterns to give the player a challenge.
 
-## Features
+## CMP304 AI 
 
-- Post Support (Blog)
-- Pagination and Dynamic Categories
-- RSS Feed
-- SEO
-- Basic Mobile Support
-- Syntax Highlighting (prism.js)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MV8_rU4ChB4?si=5ICrZSJE79Ybpylo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## JavaScript Requirements
 
@@ -53,6 +49,7 @@ Support for more analytics platforms is a welcome suggestion, as long as they re
 CSS styles adapted and modified from Jeremy Thomas' 'Web Design in 4 Minutes'. 
 
 Theme spacing, colours, and content layout feedback provided by my wife ♥
+
 
 
 
