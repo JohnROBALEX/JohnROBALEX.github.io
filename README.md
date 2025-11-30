@@ -13,9 +13,10 @@ I was one of three programmers for Pen and Sword, which is a top-down 2D tower d
 
 ## Adaptive decision tree AI 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MV8_rU4ChB4?si=5ICrZSJE79Ybpylo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![AI code Demonstration](AI.gif)
 
 I made a game with an adaptive decision tree AI that dynamically adapts its strategies by calculating contextual relevance and of actions and continuously updates success rates using a moving average. It also uses weighted random selection to make it more unpredictable making it more engaging. 
+
 
 
 
